@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SearchMatrix.cs" />
     <Compile Include="ReverseBits.cs" />
     <Compile Include="AddBinary.cs" />
     <Compile Include="Program.cs" />
