@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InterleavingString.cs" />
+    <Compile Include="LongestCommonPrefix.cs" />
     <Compile Include="RotateArray.cs" />
     <Compile Include="SearchMatrix.cs" />
     <Compile Include="ReverseBits.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TitleToNumber.cs" />
+    <Compile Include="TrappingRainWater.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
