@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InterleavingString.cs" />
+    <Compile Include="RotateArray.cs" />
     <Compile Include="SearchMatrix.cs" />
     <Compile Include="ReverseBits.cs" />
     <Compile Include="AddBinary.cs" />

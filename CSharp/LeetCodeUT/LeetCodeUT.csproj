@@ -44,8 +44,10 @@
   <ItemGroup>
     <Compile Include="AddBinaryUT.cs" />
     <Compile Include="BaseUT.cs" />
+    <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseBitsUT.cs" />
+    <Compile Include="RotateArrayUT.cs" />
     <Compile Include="SearchMatrixUT.cs" />
     <Compile Include="TitleToNumberUT.cs" />
   </ItemGroup>
