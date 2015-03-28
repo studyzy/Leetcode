@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddBinaryUT.cs" />
+    <Compile Include="BalancedBinaryTreeUT.cs" />
     <Compile Include="BaseUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />
