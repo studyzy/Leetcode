@@ -54,6 +54,7 @@
     <Compile Include="TitleToNumberUT.cs" />
     <Compile Include="TrappingRainWaterUT.cs" />
     <Compile Include="PascalsTriangleUT.cs" />
+    <Compile Include="ReverseWordsinaStringUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

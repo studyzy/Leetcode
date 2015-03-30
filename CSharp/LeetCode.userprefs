@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="LeetCode/LeetCode.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/PascalsTriangle.cs">
+    <Files>
+      <File FileName="LeetCode/PascalsTriangle.cs" Line="28" Column="5" />
+      <File FileName="LeetCodeUT/PascalsTriangleUT.cs" Line="12" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="LeetCodeUT" expanded="True">
+            <Node name="LeetCodeUT" expanded="True">
+              <Node name="PascalsTriangleUT" expanded="True">
+                <Node name="Test" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
