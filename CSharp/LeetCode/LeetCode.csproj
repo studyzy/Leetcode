@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="InterleavingString.cs" />
+    <Compile Include="LargestNumber.cs" />
     <Compile Include="LongestCommonPrefix.cs" />
     <Compile Include="LongestPalindromicSubstring.cs" />
     <Compile Include="LRUCache.cs" />
