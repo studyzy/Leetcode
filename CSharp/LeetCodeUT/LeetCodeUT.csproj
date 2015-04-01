@@ -43,8 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddBinaryUT.cs" />
+    <Compile Include="AddTwoNumbersUT.cs" />
     <Compile Include="BalancedBinaryTreeUT.cs" />
     <Compile Include="BaseUT.cs" />
+    <Compile Include="ClimbStairsUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LargestNumberUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />
@@ -56,6 +58,7 @@
     <Compile Include="RomantoIntegerUT.cs" />
     <Compile Include="RotateArrayUT.cs" />
     <Compile Include="SearchMatrixUT.cs" />
+    <Compile Include="SpiralOrderUT.cs" />
     <Compile Include="SymmetricTreeUT.cs" />
     <Compile Include="TitleToNumberUT.cs" />
     <Compile Include="TrappingRainWaterUT.cs" />

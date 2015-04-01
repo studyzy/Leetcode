@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
+    <Compile Include="ClimbingStairs.cs" />
     <Compile Include="InterleavingString.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="LargestNumber.cs" />
@@ -51,11 +53,13 @@
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />
+    <Compile Include="SearchinRotatedSortedArray.cs" />
     <Compile Include="SearchMatrix.cs" />
     <Compile Include="ReverseBits.cs" />
     <Compile Include="AddBinary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpiralMatrix.cs" />
     <Compile Include="Sqrt.cs" />
     <Compile Include="SymmetricTree.cs" />
     <Compile Include="TitleToNumber.cs" />

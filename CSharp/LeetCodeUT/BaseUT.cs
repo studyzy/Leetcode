@@ -15,7 +15,7 @@ namespace LeetCodeUT
         {
             Solution =new Solution();
         }
-
+        #region List
         protected void PrintListNodes(ListNode n)
         {
             var p = n;
@@ -60,5 +60,37 @@ namespace LeetCodeUT
             }
             return sb.ToString();
         }
+        #endregion
+
+        #region TreeNode
+
+        protected TreeNode BuildTree(string str)
+        {
+            var array = str.Split(',');
+            TreeNode root=new TreeNode(Convert.ToInt32(array[0]));
+            TreeNode current = root;
+            bool fillLeft = false;
+            for (int i = 1; i < array.Length; i++)
+            {
+                string v = array[i];
+                if (v == "#")//该节点缺失
+                {
+                    fillLeft = true;
+                    continue;
+                }
+                int val = Convert.ToInt32(v);
+                if (fillLeft)
+                {
+                    current.right=new TreeNode(val);
+
+                }
+                else
+                {
+                    current.left=new TreeNode(val);
+                }
+            }
+            return root;
+        }
+        #endregion
     }
 }
