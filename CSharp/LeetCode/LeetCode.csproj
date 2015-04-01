@@ -43,9 +43,11 @@
   <ItemGroup>
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="InterleavingString.cs" />
+    <Compile Include="ListNode.cs" />
     <Compile Include="LongestCommonPrefix.cs" />
     <Compile Include="LongestPalindromicSubstring.cs" />
     <Compile Include="LRUCache.cs" />
+    <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />
     <Compile Include="SearchMatrix.cs" />

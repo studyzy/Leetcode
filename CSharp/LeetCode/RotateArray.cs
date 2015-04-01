@@ -9,9 +9,10 @@ namespace LeetCode
     {
         /// <summary>
         /// https://leetcode.com/problems/rotate-array/
+        /// TODO 这道题没做出来，需要学习
         /// </summary>
         /// <param name="nums"></param>
-        /// <param name="kk"></param>
+        /// <param name="k"></param>
         public void Rotate(int[] nums, int k)
         {
              int len = nums.Length;
