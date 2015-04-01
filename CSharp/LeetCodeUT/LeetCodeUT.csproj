@@ -47,6 +47,7 @@
     <Compile Include="BalancedBinaryTreeUT.cs" />
     <Compile Include="BaseUT.cs" />
     <Compile Include="ClimbStairsUT.cs" />
+    <Compile Include="CountAndSayUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LargestNumberUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />

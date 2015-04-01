@@ -44,6 +44,7 @@
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="ClimbingStairs.cs" />
+    <Compile Include="CountandSay.cs" />
     <Compile Include="InterleavingString.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="LargestNumber.cs" />
