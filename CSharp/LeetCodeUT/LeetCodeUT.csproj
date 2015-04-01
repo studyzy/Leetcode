@@ -46,6 +46,7 @@
     <Compile Include="BalancedBinaryTreeUT.cs" />
     <Compile Include="BaseUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
+    <Compile Include="LargestNumberUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />
     <Compile Include="LongestPalindromeUT.cs" />
     <Compile Include="LRUCacheUT.cs" />
