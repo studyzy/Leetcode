@@ -49,8 +49,10 @@
     <Compile Include="ListNode.cs" />
     <Compile Include="LargestNumber.cs" />
     <Compile Include="LongestCommonPrefix.cs" />
+    <Compile Include="LongestConsecutiveSequence.cs" />
     <Compile Include="LongestPalindromicSubstring.cs" />
     <Compile Include="LRUCache.cs" />
+    <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />

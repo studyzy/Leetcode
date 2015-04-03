@@ -51,9 +51,11 @@
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LargestNumberUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />
+    <Compile Include="LongestConsecutiveSequenceUT.cs" />
     <Compile Include="LongestPalindromeUT.cs" />
     <Compile Include="LRUCacheUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveDuplicatesfromSortedArrayIIUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListIIUT.cs" />
     <Compile Include="ReverseBitsUT.cs" />
     <Compile Include="RomantoIntegerUT.cs" />
