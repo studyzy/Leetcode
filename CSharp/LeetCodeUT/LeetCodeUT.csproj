@@ -67,6 +67,7 @@
     <Compile Include="TrappingRainWaterUT.cs" />
     <Compile Include="PascalsTriangleUT.cs" />
     <Compile Include="ReverseWordsinaStringUT.cs" />
+    <Compile Include="LongestValidParenthesesUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
