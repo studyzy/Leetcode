@@ -66,31 +66,51 @@ namespace LeetCodeUT
 
         protected TreeNode BuildTree(string str)
         {
-            var array = str.Split(',');
+            var array = str.Split(',').ToList();
             TreeNode root=new TreeNode(Convert.ToInt32(array[0]));
-            TreeNode current = root;
-            bool fillLeft = false;
-            for (int i = 1; i < array.Length; i++)
-            {
-                string v = array[i];
-                if (v == "#")//该节点缺失
-                {
-                    fillLeft = true;
-                    continue;
-                }
-                int val = Convert.ToInt32(v);
-                if (fillLeft)
-                {
-                    current.right=new TreeNode(val);
-
-                }
-                else
-                {
-                    current.left=new TreeNode(val);
-                }
-            }
+            array.RemoveAt(0);
+            BuildTree(array, new List<TreeNode> {root});
             return root;
         }
+
+        private void BuildTree(List<string> str, IList<TreeNode> nodes)
+        {
+            if (str==null||str.Count==0)
+            {
+                return ;
+            }
+            var subNodes = new List<TreeNode>();
+            var count = nodes.Count*2;
+           
+            for (var i = 0; i < count; i++)
+            {
+                if (i == str.Count)
+                {
+                    break;
+                }
+                var c = str[i];
+                if (c != "#")
+                {
+                    int val = Convert.ToInt32(c);
+                    var node = new TreeNode(val);
+                    if (i%2 == 0)
+                    {
+                        nodes[i/2].left = node;
+                    }
+                    else
+                    {
+                        nodes[i/2].right = node;
+                    }
+                    subNodes.Add(node);
+                }
+            }
+            if (str.Count > count)
+            {
+                var subStr = str.GetRange(count, str.Count - count);
+                BuildTree(subStr, subNodes);
+            }
+        }
+
         #endregion
     }
 }

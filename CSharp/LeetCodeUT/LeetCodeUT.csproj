@@ -50,10 +50,12 @@
     <Compile Include="CountAndSayUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LargestNumberUT.cs" />
+    <Compile Include="LengthOfLastWordUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />
     <Compile Include="LongestConsecutiveSequenceUT.cs" />
     <Compile Include="LongestPalindromeUT.cs" />
     <Compile Include="LRUCacheUT.cs" />
+    <Compile Include="MinimumDepthofBinaryTreeUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayIIUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListIIUT.cs" />
@@ -68,6 +70,7 @@
     <Compile Include="PascalsTriangleUT.cs" />
     <Compile Include="ReverseWordsinaStringUT.cs" />
     <Compile Include="LongestValidParenthesesUT.cs" />
+    <Compile Include="UtilityUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
