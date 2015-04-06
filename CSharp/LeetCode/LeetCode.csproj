@@ -75,6 +75,8 @@
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="ReverseWordsinaString.cs" />
     <Compile Include="LongestValidParentheses.cs" />
+    <Compile Include="WordBreakII.cs" />
+    <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

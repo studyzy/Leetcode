@@ -71,6 +71,7 @@
     <Compile Include="ReverseWordsinaStringUT.cs" />
     <Compile Include="LongestValidParenthesesUT.cs" />
     <Compile Include="UtilityUT.cs" />
+    <Compile Include="LongestSubstringWithoutRepeatingCharactersUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
