@@ -47,10 +47,13 @@
     <Compile Include="BalancedBinaryTreeUT.cs" />
     <Compile Include="BaseUT.cs" />
     <Compile Include="ClimbStairsUT.cs" />
+    <Compile Include="ContainerWithMostWaterUT.cs" />
     <Compile Include="CountAndSayUT.cs" />
+    <Compile Include="IntegertoRomanUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LargestNumberUT.cs" />
     <Compile Include="LengthOfLastWordUT.cs" />
+    <Compile Include="LetterCombinationsofaPhoneNumberUT.cs" />
     <Compile Include="LongestCommonPrefixUT.cs" />
     <Compile Include="LongestConsecutiveSequenceUT.cs" />
     <Compile Include="LongestPalindromeUT.cs" />

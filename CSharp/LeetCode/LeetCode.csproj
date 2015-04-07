@@ -44,10 +44,13 @@
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="ClimbingStairs.cs" />
+    <Compile Include="ContainerWithMostWater.cs" />
     <Compile Include="CopyListwithRandomPointer.cs" />
     <Compile Include="CountandSay.cs" />
+    <Compile Include="IntegertoRoman.cs" />
     <Compile Include="InterleavingString.cs" />
     <Compile Include="LengthofLastWord.cs" />
+    <Compile Include="LetterCombinationsofaPhoneNumber.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="LargestNumber.cs" />
     <Compile Include="LongestCommonPrefix.cs" />

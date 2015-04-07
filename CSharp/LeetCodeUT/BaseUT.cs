@@ -15,6 +15,18 @@ namespace LeetCodeUT
         {
             Solution =new Solution();
         }
+
+        protected IList<int> String2Int32List(string str)
+        {
+            var array = str.Split(',');
+            var result = new List<int>();
+            foreach (var s in array)
+            {
+                result.Add(Convert.ToInt32(s));
+            }
+            return result;
+        }
+
         #region List
         protected void PrintListNodes(ListNode n)
         {
