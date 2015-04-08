@@ -83,6 +83,10 @@
     <Compile Include="ValidParentheses.cs" />
     <Compile Include="WordBreakII.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
+    <Compile Include="ZigZagConversion.cs" />
+    <Compile Include="PalindromeNumber.cs" />
+    <Compile Include="RemoveDuplicatesfromSortedArray.cs" />
+    <Compile Include="RotateImage.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

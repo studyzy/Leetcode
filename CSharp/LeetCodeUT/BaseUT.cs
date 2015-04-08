@@ -10,10 +10,11 @@ namespace LeetCodeUT
     public class BaseUT
     {
         protected Solution Solution;
-       
+		protected SolutionDuplicate Solution2;
         public BaseUT()
         {
             Solution =new Solution();
+			Solution2 = new SolutionDuplicate ();
         }
 
         protected IList<int> String2Int32List(string str)
@@ -26,7 +27,16 @@ namespace LeetCodeUT
             }
             return result;
         }
-
+		protected int[] String2Int32Array(string str)
+		{
+			var array = str.Split(',');
+			var result = new List<int>();
+			foreach (var s in array)
+			{
+				result.Add(Convert.ToInt32(s));
+			}
+			return result.ToArray();
+		}
         #region List
         protected void PrintListNodes(ListNode n)
         {

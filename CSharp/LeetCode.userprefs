@@ -1,19 +1,24 @@
 ﻿<Properties StartupItem="LeetCode/LeetCode.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/WordBreakII.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/LongestSubstringWithoutRepeatingCharacters.cs">
     <Files>
-      <File FileName="LeetCode/PascalsTriangle.cs" Line="1" Column="1" />
-      <File FileName="LeetCodeUT/PascalsTriangleUT.cs" Line="1" Column="1" />
-      <File FileName="LeetCode/ReverseWordsinaString.cs" Line="1" Column="1" />
-      <File FileName="LeetCodeUT/ReverseWordsinaStringUT.cs" Line="1" Column="1" />
-      <File FileName="LeetCode/LongestConsecutiveSequence.cs" Line="1" Column="1" />
-      <File FileName="LeetCode/LongestValidParentheses.cs" Line="24" Column="21" />
-      <File FileName="LeetCodeUT/LongestValidParenthesesUT.cs" Line="1" Column="1" />
-      <File FileName="LeetCode/WordBreakII.cs" Line="8" Column="4" />
+      <File FileName="LeetCode/LongestSubstringWithoutRepeatingCharacters.cs" Line="54" Column="1" />
+      <File FileName="LeetCodeUT/LongestSubstringWithoutRepeatingCharactersUT.cs" Line="10" Column="28" />
+      <File FileName="LeetCode/ZigZagConversion.cs" Line="23" Column="28" />
+      <File FileName="LeetCodeUT/ZigZagConversionUT.cs" Line="17" Column="34" />
+      <File FileName="LeetCode/PalindromeNumber.cs" Line="55" Column="17" />
+      <File FileName="LeetCodeUT/PalindromeNumberUT.cs" Line="15" Column="2" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/LongestSubstringWithoutRepeatingCharactersUT.cs" line="16" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

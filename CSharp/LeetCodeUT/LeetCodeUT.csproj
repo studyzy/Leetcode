@@ -78,6 +78,10 @@
     <Compile Include="UtilityUT.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharactersUT.cs" />
     <Compile Include="ValidParenthesesUT.cs" />
+    <Compile Include="ZigZagConversionUT.cs" />
+    <Compile Include="PalindromeNumberUT.cs" />
+    <Compile Include="RemoveDuplicatesfromSortedArrayUT.cs" />
+    <Compile Include="RotateImageUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
