@@ -47,6 +47,7 @@
     <Compile Include="ContainerWithMostWater.cs" />
     <Compile Include="CopyListwithRandomPointer.cs" />
     <Compile Include="CountandSay.cs" />
+    <Compile Include="GenerateParentheses.cs" />
     <Compile Include="IntegertoRoman.cs" />
     <Compile Include="InterleavingString.cs" />
     <Compile Include="LengthofLastWord.cs" />
@@ -61,6 +62,7 @@
     <Compile Include="RandomListNode.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
+    <Compile Include="RemoveNthNodeFromEndofList.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />
     <Compile Include="SearchinRotatedSortedArray.cs" />
@@ -78,6 +80,7 @@
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="ReverseWordsinaString.cs" />
     <Compile Include="LongestValidParentheses.cs" />
+    <Compile Include="ValidParentheses.cs" />
     <Compile Include="WordBreakII.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
   </ItemGroup>

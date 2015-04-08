@@ -12,7 +12,7 @@ namespace LeetCodeUT
         [Test]
         public void Test1()
         {
-            ListNode head = ListBuilder(new[] {1, 1, 2, 3, 4, 4});
+            ListNode head = BuildListNodes(new[] {1, 1, 2, 3, 4, 4});
            var result= Solution.DeleteDuplicates(head);
             PrintListNodes(result);
             Assert.AreEqual(ListToString(result),"2,3");
@@ -22,7 +22,7 @@ namespace LeetCodeUT
         [Test]
         public void Test2()
         {
-            ListNode head = ListBuilder(new[] { 1, 2, 2 });
+            ListNode head = BuildListNodes(new[] { 1, 2, 2 });
             var result = Solution.DeleteDuplicates(head);
             PrintListNodes(result);
             Assert.AreEqual(ListToString(result), "1");
@@ -30,7 +30,7 @@ namespace LeetCodeUT
         [Test]
         public void Test3()
         {
-            ListNode head = ListBuilder(new[] { 1, 2, 2,2,2,3,4,4 });
+            ListNode head = BuildListNodes(new[] { 1, 2, 2,2,2,3,4,4 });
             var result = Solution.DeleteDuplicates(head);
             PrintListNodes(result);
             Assert.AreEqual(ListToString(result), "1,3");

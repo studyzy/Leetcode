@@ -42,7 +42,12 @@ namespace LeetCodeUT
             Debug.WriteLine("");
         }
 
-        protected ListNode ListBuilder(int[] values)
+        protected ListNode BuildListNodes(string values)
+        {
+            var list = String2Int32List(values);
+            return BuildListNodes(list.ToArray());
+        }
+        protected ListNode BuildListNodes(int[] values)
         {
             ListNode head=new ListNode(values[0]);
             ListNode p = head;
