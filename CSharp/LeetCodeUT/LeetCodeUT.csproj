@@ -69,6 +69,7 @@
     <Compile Include="RotateArrayUT.cs" />
     <Compile Include="SearchMatrixUT.cs" />
     <Compile Include="SpiralOrderUT.cs" />
+    <Compile Include="SwapNodesinPairsUT.cs" />
     <Compile Include="SymmetricTreeUT.cs" />
     <Compile Include="TitleToNumberUT.cs" />
     <Compile Include="TrappingRainWaterUT.cs" />
