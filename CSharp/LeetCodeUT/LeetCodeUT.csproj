@@ -46,6 +46,7 @@
     <Compile Include="AddTwoNumbersUT.cs" />
     <Compile Include="BalancedBinaryTreeUT.cs" />
     <Compile Include="BaseUT.cs" />
+    <Compile Include="BinaryTreeRightSideViewUT.cs" />
     <Compile Include="ClimbStairsUT.cs" />
     <Compile Include="ContainerWithMostWaterUT.cs" />
     <Compile Include="CountAndSayUT.cs" />
@@ -60,9 +61,11 @@
     <Compile Include="LongestConsecutiveSequenceUT.cs" />
     <Compile Include="LongestPalindromeUT.cs" />
     <Compile Include="LRUCacheUT.cs" />
+    <Compile Include="MajorityElementUT.cs" />
     <Compile Include="MergeSortedArrayUT.cs" />
     <Compile Include="MinimumDepthofBinaryTreeUT.cs" />
     <Compile Include="MultiplyStringsUT.cs" />
+    <Compile Include="NumberofIslandsUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayIIUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListIIUT.cs" />
@@ -70,6 +73,7 @@
     <Compile Include="ReverseBitsUT.cs" />
     <Compile Include="RomantoIntegerUT.cs" />
     <Compile Include="RotateArrayUT.cs" />
+    <Compile Include="SameTreeUT.cs" />
     <Compile Include="SearchMatrixUT.cs" />
     <Compile Include="SpiralOrderUT.cs" />
     <Compile Include="SwapNodesinPairsUT.cs" />

@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
+    <Compile Include="BinaryTreeRightSideView.cs" />
     <Compile Include="ClimbingStairs.cs" />
     <Compile Include="ContainerWithMostWater.cs" />
     <Compile Include="CopyListwithRandomPointer.cs" />
@@ -59,15 +60,18 @@
     <Compile Include="LongestConsecutiveSequence.cs" />
     <Compile Include="LongestPalindromicSubstring.cs" />
     <Compile Include="LRUCache.cs" />
+    <Compile Include="MajorityElement.cs" />
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="MinimumDepthofBinaryTree.cs" />
     <Compile Include="MultiplyStrings.cs" />
+    <Compile Include="NumberofIslands.cs" />
     <Compile Include="RandomListNode.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
     <Compile Include="RemoveNthNodeFromEndofList.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />
+    <Compile Include="SameTree.cs" />
     <Compile Include="SearchinRotatedSortedArray.cs" />
     <Compile Include="SearchMatrix.cs" />
     <Compile Include="ReverseBits.cs" />
