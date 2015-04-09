@@ -50,6 +50,7 @@
     <Compile Include="ClimbStairsUT.cs" />
     <Compile Include="ContainerWithMostWaterUT.cs" />
     <Compile Include="CountAndSayUT.cs" />
+    <Compile Include="FactorialTrailingZeroesUT.cs" />
     <Compile Include="GenerateParenthesesUT.cs" />
     <Compile Include="ImplementstrStrUT.cs" />
     <Compile Include="IntegertoRomanUT.cs" />
