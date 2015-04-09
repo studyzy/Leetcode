@@ -50,6 +50,7 @@
     <Compile Include="ContainerWithMostWaterUT.cs" />
     <Compile Include="CountAndSayUT.cs" />
     <Compile Include="GenerateParenthesesUT.cs" />
+    <Compile Include="ImplementstrStrUT.cs" />
     <Compile Include="IntegertoRomanUT.cs" />
     <Compile Include="IsInterleaveUT.cs" />
     <Compile Include="LargestNumberUT.cs" />
@@ -59,7 +60,9 @@
     <Compile Include="LongestConsecutiveSequenceUT.cs" />
     <Compile Include="LongestPalindromeUT.cs" />
     <Compile Include="LRUCacheUT.cs" />
+    <Compile Include="MergeSortedArrayUT.cs" />
     <Compile Include="MinimumDepthofBinaryTreeUT.cs" />
+    <Compile Include="MultiplyStringsUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayIIUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListIIUT.cs" />

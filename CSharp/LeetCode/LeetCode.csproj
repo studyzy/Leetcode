@@ -48,6 +48,7 @@
     <Compile Include="CopyListwithRandomPointer.cs" />
     <Compile Include="CountandSay.cs" />
     <Compile Include="GenerateParentheses.cs" />
+    <Compile Include="ImplementstrStr.cs" />
     <Compile Include="IntegertoRoman.cs" />
     <Compile Include="InterleavingString.cs" />
     <Compile Include="LengthofLastWord.cs" />
@@ -58,7 +59,9 @@
     <Compile Include="LongestConsecutiveSequence.cs" />
     <Compile Include="LongestPalindromicSubstring.cs" />
     <Compile Include="LRUCache.cs" />
+    <Compile Include="MergeSortedArray.cs" />
     <Compile Include="MinimumDepthofBinaryTree.cs" />
+    <Compile Include="MultiplyStrings.cs" />
     <Compile Include="RandomListNode.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
