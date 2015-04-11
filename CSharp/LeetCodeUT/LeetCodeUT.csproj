@@ -48,8 +48,10 @@
     <Compile Include="BaseUT.cs" />
     <Compile Include="BinaryTreeRightSideViewUT.cs" />
     <Compile Include="ClimbStairsUT.cs" />
+    <Compile Include="CompareVersionNumbersUT.cs" />
     <Compile Include="ContainerWithMostWaterUT.cs" />
     <Compile Include="CountAndSayUT.cs" />
+    <Compile Include="ExcelSheetColumnTitleUT.cs" />
     <Compile Include="FactorialTrailingZeroesUT.cs" />
     <Compile Include="GenerateParenthesesUT.cs" />
     <Compile Include="ImplementstrStrUT.cs" />
@@ -67,6 +69,7 @@
     <Compile Include="MinimumDepthofBinaryTreeUT.cs" />
     <Compile Include="MultiplyStringsUT.cs" />
     <Compile Include="NumberofIslandsUT.cs" />
+    <Compile Include="PathSumUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayIIUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListIIUT.cs" />
@@ -86,6 +89,7 @@
     <Compile Include="LongestValidParenthesesUT.cs" />
     <Compile Include="UtilityUT.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharactersUT.cs" />
+    <Compile Include="ValidPalindromeUT.cs" />
     <Compile Include="ValidParenthesesUT.cs" />
     <Compile Include="ZigZagConversionUT.cs" />
     <Compile Include="PalindromeNumberUT.cs" />

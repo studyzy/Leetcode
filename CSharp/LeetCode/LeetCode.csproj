@@ -45,9 +45,11 @@
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="BinaryTreeRightSideView.cs" />
     <Compile Include="ClimbingStairs.cs" />
+    <Compile Include="CompareVersionNumbers.cs" />
     <Compile Include="ContainerWithMostWater.cs" />
     <Compile Include="CopyListwithRandomPointer.cs" />
     <Compile Include="CountandSay.cs" />
+    <Compile Include="ExcelSheetColumnTitle.cs" />
     <Compile Include="FactorialTrailingZeroes.cs" />
     <Compile Include="GenerateParentheses.cs" />
     <Compile Include="ImplementstrStr.cs" />
@@ -64,8 +66,10 @@
     <Compile Include="MajorityElement.cs" />
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="MinimumDepthofBinaryTree.cs" />
+    <Compile Include="MinStack.cs" />
     <Compile Include="MultiplyStrings.cs" />
     <Compile Include="NumberofIslands.cs" />
+    <Compile Include="PathSum.cs" />
     <Compile Include="RandomListNode.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
@@ -89,6 +93,7 @@
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="ReverseWordsinaString.cs" />
     <Compile Include="LongestValidParentheses.cs" />
+    <Compile Include="ValidPalindrome.cs" />
     <Compile Include="ValidParentheses.cs" />
     <Compile Include="WordBreakII.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />

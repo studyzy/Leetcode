@@ -13,7 +13,7 @@ namespace LeetCodeUT
 		[TestCase("A",1,"A")]
 		public void Test (string s,int n,string output)
 		{
-			var result = Solution.Convert (s, n);
+			var result = Solution.Convert1 (s, n);
 			Assert.AreEqual (result, output);
 		}
 	}

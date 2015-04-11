@@ -16,7 +16,7 @@ namespace LeetCode
 		/// </summary>
 		/// <param name="s">S.</param>
 		/// <param name="nRows">N rows.</param>
-		public string Convert(String s, int nRows) 
+		public string Convert1(String s, int nRows) 
 		{
 			int max = nRows;
 			int min = max - 2;
