@@ -1,23 +1,25 @@
 ﻿<Properties StartupItem="LeetCode/LeetCode.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/LongestSubstringWithoutRepeatingCharacters.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/BinaryTreeLevelOrderTraversal.cs">
     <Files>
-      <File FileName="LeetCode/LongestSubstringWithoutRepeatingCharacters.cs" Line="54" Column="1" />
-      <File FileName="LeetCodeUT/LongestSubstringWithoutRepeatingCharactersUT.cs" Line="10" Column="28" />
-      <File FileName="LeetCode/ZigZagConversion.cs" Line="23" Column="28" />
-      <File FileName="LeetCodeUT/ZigZagConversionUT.cs" Line="17" Column="34" />
-      <File FileName="LeetCode/PalindromeNumber.cs" Line="55" Column="17" />
-      <File FileName="LeetCodeUT/PalindromeNumberUT.cs" Line="15" Column="2" />
+      <File FileName="LeetCode/LongestSubstringWithoutRepeatingCharacters.cs" Line="1" Column="1" />
+      <File FileName="LeetCodeUT/LongestSubstringWithoutRepeatingCharactersUT.cs" Line="1" Column="1" />
+      <File FileName="LeetCode/ZigZagConversion.cs" Line="1" Column="1" />
+      <File FileName="LeetCodeUT/ZigZagConversionUT.cs" Line="1" Column="1" />
+      <File FileName="LeetCode/PalindromeNumber.cs" Line="1" Column="1" />
+      <File FileName="LeetCodeUT/PalindromeNumberUT.cs" Line="1" Column="1" />
+      <File FileName="LeetCode/RemoveDuplicatesfromSortedArray.cs" Line="1" Column="1" />
+      <File FileName="LeetCodeUT/RemoveDuplicatesfromSortedArrayUT.cs" Line="1" Column="1" />
+      <File FileName="LeetCode/RotateImage.cs" Line="35" Column="5" />
+      <File FileName="LeetCodeUT/RotateImageUT.cs" Line="1" Column="1" />
+      <File FileName="LeetCode/BinaryTreeLevelOrderTraversal.cs" Line="10" Column="5" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/LongestSubstringWithoutRepeatingCharactersUT.cs" line="16" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/RemoveDuplicatesfromSortedArray.cs" line="13" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/RotateImage.cs" line="24" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

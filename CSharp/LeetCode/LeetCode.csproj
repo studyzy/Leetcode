@@ -101,6 +101,10 @@
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="RotateImage.cs" />
+    <Compile Include="BinaryTreeLevelOrderTraversal.cs" />
+    <Compile Include="WordBreak.cs" />
+    <Compile Include="IntersectionofTwoLinkedLists.cs" />
+    <Compile Include="StringtoInteger.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

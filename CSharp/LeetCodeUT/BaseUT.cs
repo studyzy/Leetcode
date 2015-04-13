@@ -37,6 +37,27 @@ namespace LeetCodeUT
 			}
 			return result.ToArray();
 		}
+
+		protected void PrintListList(IList<IList<int>> result)
+		{
+			foreach (var row in result)
+			{
+				var line = String.Join (",", row);
+				Console.WriteLine (line);
+			}
+		}
+		protected ISet<string> String2Set(string str)
+		{
+			var array = str.Split (',');
+			ISet<string> result = new HashSet<string> ();
+			foreach (var s in array)
+			{
+				result.Add (s);
+			}
+			return result;
+		}
+
+
         #region List
         protected void PrintListNodes(ListNode n)
         {

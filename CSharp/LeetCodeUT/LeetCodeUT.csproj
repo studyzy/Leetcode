@@ -95,6 +95,11 @@
     <Compile Include="PalindromeNumberUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayUT.cs" />
     <Compile Include="RotateImageUT.cs" />
+    <Compile Include="BinaryTreeLevelOrderTraversalUT.cs" />
+    <Compile Include="WordBreakUT.cs" />
+    <Compile Include="WordBreakIIUT.cs" />
+    <Compile Include="IntersectionofTwoLinkedListsUT.cs" />
+    <Compile Include="StringtoIntegerUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
