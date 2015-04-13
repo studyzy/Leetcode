@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
+    <Compile Include="BinaryTreeLevelOrderTraversalII.cs" />
     <Compile Include="BinaryTreeRightSideView.cs" />
     <Compile Include="ClimbingStairs.cs" />
     <Compile Include="CompareVersionNumbers.cs" />
@@ -69,10 +70,13 @@
     <Compile Include="MinStack.cs" />
     <Compile Include="MultiplyStrings.cs" />
     <Compile Include="NumberofIslands.cs" />
+    <Compile Include="PascalsTriangleII.cs" />
     <Compile Include="PathSum.cs" />
+    <Compile Include="PlusOne.cs" />
     <Compile Include="RandomListNode.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
+    <Compile Include="RemoveElement.cs" />
     <Compile Include="RemoveNthNodeFromEndofList.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />
