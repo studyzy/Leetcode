@@ -104,6 +104,8 @@
     <Compile Include="WordBreakIIUT.cs" />
     <Compile Include="IntersectionofTwoLinkedListsUT.cs" />
     <Compile Include="StringtoIntegerUT.cs" />
+    <Compile Include="SumRoottoLeafNumbersUT.cs" />
+    <Compile Include="SpiralMatrixIIUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

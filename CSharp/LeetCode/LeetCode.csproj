@@ -109,6 +109,9 @@
     <Compile Include="WordBreak.cs" />
     <Compile Include="IntersectionofTwoLinkedLists.cs" />
     <Compile Include="StringtoInteger.cs" />
+    <Compile Include="GasStation.cs" />
+    <Compile Include="SumRoottoLeafNumbers.cs" />
+    <Compile Include="SpiralMatrixII.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
