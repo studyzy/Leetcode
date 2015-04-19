@@ -106,6 +106,7 @@
     <Compile Include="StringtoIntegerUT.cs" />
     <Compile Include="SumRoottoLeafNumbersUT.cs" />
     <Compile Include="SpiralMatrixIIUT.cs" />
+    <Compile Include="SimplifyPathUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
