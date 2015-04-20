@@ -113,6 +113,8 @@
     <Compile Include="SumRoottoLeafNumbers.cs" />
     <Compile Include="SpiralMatrixII.cs" />
     <Compile Include="SimplifyPath.cs" />
+    <Compile Include="FindMinimuminRotatedSortedArray.cs" />
+    <Compile Include="MaximumProductSubarray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

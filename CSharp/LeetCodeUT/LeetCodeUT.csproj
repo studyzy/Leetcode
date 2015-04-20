@@ -107,6 +107,8 @@
     <Compile Include="SumRoottoLeafNumbersUT.cs" />
     <Compile Include="SpiralMatrixIIUT.cs" />
     <Compile Include="SimplifyPathUT.cs" />
+    <Compile Include="FindMinimuminRotatedSortedArrayUT.cs" />
+    <Compile Include="MaximumProductSubarrayUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
