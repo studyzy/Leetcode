@@ -109,6 +109,7 @@
     <Compile Include="SimplifyPathUT.cs" />
     <Compile Include="FindMinimuminRotatedSortedArrayUT.cs" />
     <Compile Include="MaximumProductSubarrayUT.cs" />
+    <Compile Include="PowUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

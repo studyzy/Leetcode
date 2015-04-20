@@ -1,17 +1,18 @@
 ﻿<Properties StartupItem="LeetCode/LeetCode.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/SpiralMatrixII.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/MaximumProductSubarray.cs">
     <Files>
-      <File FileName="LeetCode/SpiralMatrixII.cs" Line="9" Column="24" />
-      <File FileName="LeetCode/SpiralMatrix.cs" Line="84" Column="18" />
-      <File FileName="LeetCodeUT/SpiralMatrixIIUT.cs" Line="20" Column="6" />
+      <File FileName="LeetCode/MaximumProductSubarray.cs" Line="95" Column="3" />
+      <File FileName="LeetCodeUT/MaximumProductSubarrayUT.cs" Line="12" Column="26" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State expanded="True">
           <Node name="LeetCodeUT" expanded="True">
             <Node name="LeetCodeUT" expanded="True">
-              <Node name="SpiralMatrixIIUT" selected="True" />
+              <Node name="MaximumProductSubarrayUT" expanded="True">
+                <Node name="Test" expanded="True" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -26,6 +27,9 @@
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/IntersectionofTwoLinkedListsUT.cs" line="16" column="54" />
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/StringtoInteger.cs" line="13" column="1" />
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/RotateArrayUT.cs" line="41" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/MaximumProductSubarray.cs" line="15" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/MaximumProductSubarray.cs" line="36" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/MaximumProductSubarray.cs" line="68" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
