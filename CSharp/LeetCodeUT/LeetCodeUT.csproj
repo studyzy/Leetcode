@@ -110,6 +110,7 @@
     <Compile Include="FindMinimuminRotatedSortedArrayUT.cs" />
     <Compile Include="MaximumProductSubarrayUT.cs" />
     <Compile Include="PowUT.cs" />
+    <Compile Include="FlattenBinaryTreetoLinkedListUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

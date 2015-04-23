@@ -159,6 +159,55 @@ namespace LeetCodeUT
             }
         }
 
+
+		protected string Tree2String(TreeNode root)
+		{
+			List<string> list = new List<string> ();
+			list.Add (root.val.ToString());
+			Tree2List (root, list);
+			var count = list.Count;
+			for (var i = 0; i < count; i++)
+			{
+				var row = list [count - i - 1];
+				if (row != "#")
+					break;
+				list.RemoveAt (count - i - 1);
+			}
+			return String.Join (",", list);
+		}
+
+		private void Tree2List(TreeNode root,List<string> list)
+		{
+			if (root == null)
+				return;
+			if (root.left == null)
+			{
+				list.Add ("#");
+			}
+			else
+			{
+				list.Add (root.left.val.ToString());
+			}
+			if (root.right == null)
+			{
+				list.Add ("#");
+			}
+			else
+			{
+				list.Add (root.right.val.ToString ());
+			}
+			if (root.left != null)
+				Tree2List (root.left, list);
+			if (root.right != null)
+				Tree2List (root.right, list);
+		}
+
         #endregion
+
+
+		#region Test current class function
+
+	
+		#endregion
     }
 }
