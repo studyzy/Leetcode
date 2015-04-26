@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace LeetCode
+{
+    public partial class Solution
+    {
+        public string FractionToDecimal(int numerator, int denominator)
+        {
+            long zs = (long)numerator/denominator;
+            int m = numerator%denominator;
+            if (m== 0)
+            {
+                return zs.ToString();
+            }
+            var ysList = new List<int>();
+            ysList.Add(m);
+            StringBuilder sb=new StringBuilder();
+            int startIdx = 0;
+            while (true)
+            {
+                m = m*10;
+                int n = m/denominator;
+                sb.Append(n.ToString());
+                m = m%denominator;
+                if (ysList.Contains(m))
+                {
+                    startIdx = ysList.IndexOf(m);
+                    break;
+                }
+                if (m == 0) //Not Recurring
+                {
+                    return zs + "." + sb.ToString();
+                }
+                ysList.Add(m);
+            }
+            var xs = sb.ToString();
+            return zs + "." + xs.Substring(0, startIdx) + "(" + xs.Substring(startIdx) + ")";
+        }
+    }
+}
