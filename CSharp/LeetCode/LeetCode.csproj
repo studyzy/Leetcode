@@ -52,6 +52,7 @@
     <Compile Include="CountandSay.cs" />
     <Compile Include="ExcelSheetColumnTitle.cs" />
     <Compile Include="FactorialTrailingZeroes.cs" />
+    <Compile Include="FractiontoRecurringDecimal.cs" />
     <Compile Include="GenerateParentheses.cs" />
     <Compile Include="ImplementstrStr.cs" />
     <Compile Include="IntegertoRoman.cs" />
