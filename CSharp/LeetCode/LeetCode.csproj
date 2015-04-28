@@ -117,6 +117,9 @@
     <Compile Include="MaximumProductSubarray.cs" />
     <Compile Include="Pow.cs" />
     <Compile Include="FlattenBinaryTreetoLinkedList.cs" />
+    <Compile Include="SetMatrixZeroes.cs" />
+    <Compile Include="MaxPointsonaLine.cs" />
+    <Compile Include="Point.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

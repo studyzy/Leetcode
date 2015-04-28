@@ -111,6 +111,8 @@
     <Compile Include="MaximumProductSubarrayUT.cs" />
     <Compile Include="PowUT.cs" />
     <Compile Include="FlattenBinaryTreetoLinkedListUT.cs" />
+    <Compile Include="SetMatrixZeroesUT.cs" />
+    <Compile Include="MaxPointsonaLineUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
