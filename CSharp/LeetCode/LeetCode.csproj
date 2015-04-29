@@ -121,6 +121,9 @@
     <Compile Include="SetMatrixZeroes.cs" />
     <Compile Include="MaxPointsonaLine.cs" />
     <Compile Include="Point.cs" />
+    <Compile Include="CountPrimes.cs" />
+    <Compile Include="BestTimetoBuyandSellStock.cs" />
+    <Compile Include="BestTimetoBuyandSellStockII.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -2,7 +2,7 @@
 
 namespace LeetCode
 {
-	public partial class SolutionDuplicate {
+	public partial class Solution2 {
 		/// <summary>
 		/// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 		/// </summary>

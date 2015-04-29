@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace LeetCode
 {
-	public partial class SolutionDuplicate {
+	public partial class Solution2 {
 		/// <summary>
 		/// https://leetcode.com/problems/word-break-ii/
 		/// TODO 这道题太难了，需要用到动态规划算法，需要进一步学习

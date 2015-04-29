@@ -10,11 +10,11 @@ namespace LeetCodeUT
     public class BaseUT
     {
         protected Solution Solution;
-		protected SolutionDuplicate Solution2;
+		protected Solution2 Solution2;
         public BaseUT()
         {
             Solution =new Solution();
-			Solution2 = new SolutionDuplicate ();
+			Solution2 = new Solution2 ();
         }
 
         protected IList<int> String2Int32List(string str)

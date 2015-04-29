@@ -114,6 +114,9 @@
     <Compile Include="FlattenBinaryTreetoLinkedListUT.cs" />
     <Compile Include="SetMatrixZeroesUT.cs" />
     <Compile Include="MaxPointsonaLineUT.cs" />
+    <Compile Include="CountPrimesUT.cs" />
+    <Compile Include="BestTimetoBuyandSellStockUT.cs" />
+    <Compile Include="BestTimetoBuyandSellStockIIUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
