@@ -117,6 +117,7 @@
     <Compile Include="CountPrimesUT.cs" />
     <Compile Include="BestTimetoBuyandSellStockUT.cs" />
     <Compile Include="BestTimetoBuyandSellStockIIUT.cs" />
+    <Compile Include="IsomorphicStringsUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
