@@ -125,6 +125,7 @@
     <Compile Include="BestTimetoBuyandSellStock.cs" />
     <Compile Include="BestTimetoBuyandSellStockII.cs" />
     <Compile Include="IsomorphicStrings.cs" />
+    <Compile Include="HappyNumber.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

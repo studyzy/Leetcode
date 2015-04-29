@@ -118,6 +118,7 @@
     <Compile Include="BestTimetoBuyandSellStockUT.cs" />
     <Compile Include="BestTimetoBuyandSellStockIIUT.cs" />
     <Compile Include="IsomorphicStringsUT.cs" />
+    <Compile Include="HappyNumberUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
