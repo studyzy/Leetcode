@@ -37,6 +37,26 @@ namespace LeetCodeUT
 			}
 			return result.ToArray();
 		}
+		protected char[][] String2CharMatrix(string str)
+		{
+			var array = str.Split(',');
+			var result = new List<char[]>();
+			foreach (var s in array)
+			{
+				result.Add(s.ToArray());
+			}
+			return result.ToArray();
+		}
+		protected string CharMatrix2String(char[][] matrix)
+		{
+			StringBuilder sb = new StringBuilder ();
+			for (var i = 0; i < matrix.Length; i++)
+			{
+				sb.Append (matrix [i]);
+				sb.Append ("\r\n");
+			}
+			return sb.ToString ();
+		}
 
 		protected void PrintListList(IList<IList<int>> result)
 		{
