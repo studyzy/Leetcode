@@ -121,9 +121,15 @@
     <Compile Include="IsomorphicStringsUT.cs" />
     <Compile Include="HappyNumberUT.cs" />
     <Compile Include="SurroundedRegionsUT.cs" />
+    <Compile Include="BitwiseANDofNumbersRangeUT.cs" />
+    <Compile Include="RepeatedDNASequencesUT.cs" />
+    <Compile Include="DungeonGameUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="DNA.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">

@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using LeetCode;
+using System.IO;
 
 namespace LeetCodeUT
 {
@@ -75,6 +76,14 @@ namespace LeetCodeUT
 				result.Add (s);
 			}
 			return result;
+		}
+
+		protected string ReadFile(string path)
+		{
+			using (StreamReader sr = new StreamReader (path))
+			{
+				return sr.ReadToEnd ();
+			}
 		}
 
 

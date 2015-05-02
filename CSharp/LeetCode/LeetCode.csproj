@@ -128,6 +128,9 @@
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="HappyNumber.cs" />
     <Compile Include="SurroundedRegions.cs" />
+    <Compile Include="BitwiseANDofNumbersRange.cs" />
+    <Compile Include="RepeatedDNASequences.cs" />
+    <Compile Include="DungeonGame.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
