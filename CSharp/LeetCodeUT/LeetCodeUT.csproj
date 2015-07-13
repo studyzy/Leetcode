@@ -124,6 +124,10 @@
     <Compile Include="BitwiseANDofNumbersRangeUT.cs" />
     <Compile Include="RepeatedDNASequencesUT.cs" />
     <Compile Include="DungeonGameUT.cs" />
+    <Compile Include="BinarySearchTreeIteratorUT.cs" />
+    <Compile Include="DistinctSubsequencesUT.cs" />
+    <Compile Include="CourseScheduleUT.cs" />
+    <Compile Include="PowerofTwoUT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

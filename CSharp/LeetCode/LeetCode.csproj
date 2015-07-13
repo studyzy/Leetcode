@@ -131,6 +131,11 @@
     <Compile Include="BitwiseANDofNumbersRange.cs" />
     <Compile Include="RepeatedDNASequences.cs" />
     <Compile Include="DungeonGame.cs" />
+    <Compile Include="BinarySearchTreeIterator.cs" />
+    <Compile Include="FindPeakElement.cs" />
+    <Compile Include="DistinctSubsequences.cs" />
+    <Compile Include="CourseSchedule.cs" />
+    <Compile Include="PowerofTwo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

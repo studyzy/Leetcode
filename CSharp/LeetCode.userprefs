@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="LeetCode/LeetCode.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/RepeatedDNASequences.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/CourseSchedule.cs">
     <Files>
-      <File FileName="LeetCodeUT/RepeatedDNASequencesUT.cs" Line="26" Column="55" />
-      <File FileName="LeetCode/RepeatedDNASequences.cs" Line="12" Column="32" />
+      <File FileName="LeetCode/BinarySearchTreeIterator.cs" Line="40" Column="3" />
+      <File FileName="LeetCodeUT/BinarySearchTreeIteratorUT.cs" Line="26" Column="1" />
+      <File FileName="LeetCode/FindPeakElement.cs" Line="10" Column="13" />
+      <File FileName="LeetCodeUT/DistinctSubsequencesUT.cs" Line="12" Column="1" />
+      <File FileName="LeetCode/DistinctSubsequences.cs" Line="25" Column="24" />
+      <File FileName="LeetCode/CourseSchedule.cs" Line="37" Column="5" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
@@ -11,7 +15,13 @@
           <Node name="LeetCode" expanded="True">
             <Node name="LeetCodeUT" expanded="True">
               <Node name="LeetCodeUT" expanded="True">
-                <Node name="RepeatedDNASequencesUT" selected="True" />
+                <Node name="BinarySearchTreeIteratorUT" expanded="True" />
+                <Node name="CourseScheduleUT" expanded="True">
+                  <Node name="BigDataTest" selected="True" />
+                </Node>
+                <Node name="DistinctSubsequencesUT" expanded="True">
+                  <Node name="Test" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -38,6 +48,9 @@
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/HappyNumberUT.cs" line="11" column="1" />
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/SurroundedRegionsUT.cs" line="16" column="1" />
       <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/BitwiseANDofNumbersRange.cs" line="9" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/BinarySearchTreeIteratorUT.cs" line="17" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCodeUT/DistinctSubsequencesUT.cs" line="12" column="1" />
+      <Breakpoint file="/Users/studyzy/Documents/Leetcode/CSharp/LeetCode/CourseSchedule.cs" line="50" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
