@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddDigits.cs" />
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="BinaryTreeLevelOrderTraversalII.cs" />
@@ -99,6 +100,7 @@
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="ReverseWordsinaString.cs" />
     <Compile Include="LongestValidParentheses.cs" />
+    <Compile Include="UglyNumber.cs" />
     <Compile Include="ValidPalindrome.cs" />
     <Compile Include="ValidParentheses.cs" />
     <Compile Include="WordBreakII.cs" />
