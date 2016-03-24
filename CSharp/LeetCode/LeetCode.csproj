@@ -139,6 +139,11 @@
     <Compile Include="CourseSchedule.cs" />
     <Compile Include="PowerofTwo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQL\Department Top Three Salaries.sql" />
+    <Content Include="SQL\Rank Scores.sql" />
+    <Content Include="SQL\Trips and Users.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
