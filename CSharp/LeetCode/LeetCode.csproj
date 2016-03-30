@@ -70,6 +70,8 @@
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="MinimumDepthofBinaryTree.cs" />
     <Compile Include="MinStack.cs" />
+    <Compile Include="MissingNumber.cs" />
+    <Compile Include="MoveZeroes.cs" />
     <Compile Include="MultiplyStrings.cs" />
     <Compile Include="NumberofIslands.cs" />
     <Compile Include="PascalsTriangleII.cs" />
@@ -90,6 +92,7 @@
     <Compile Include="AddBinary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelfCrossing.cs" />
     <Compile Include="SpiralMatrix.cs" />
     <Compile Include="Sqrt.cs" />
     <Compile Include="SwapNodesinPairs.cs" />

@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MissingNumberUT.cs" />
+    <Compile Include="MoveZeroesUT.cs" />
     <Compile Include="UglyNumberUT.cs" />
     <Compile Include="AddDigitsUT.cs" />
     <Compile Include="AddBinaryUT.cs" />
