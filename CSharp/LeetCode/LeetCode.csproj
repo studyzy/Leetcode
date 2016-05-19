@@ -59,6 +59,7 @@
     <Compile Include="IntegertoRoman.cs" />
     <Compile Include="InterleavingString.cs" />
     <Compile Include="IntersectionofTwoArrays.cs" />
+    <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="LengthofLastWord.cs" />
     <Compile Include="LetterCombinationsofaPhoneNumber.cs" />
     <Compile Include="ListNode.cs" />
@@ -106,12 +107,14 @@
     <Compile Include="TaskC_Bak.cs" />
     <Compile Include="TaskC.cs" />
     <Compile Include="TitleToNumber.cs" />
+    <Compile Include="TopKFrequentElements.cs" />
     <Compile Include="TrappingRainWater.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="ReverseWordsinaString.cs" />
     <Compile Include="LongestValidParentheses.cs" />
     <Compile Include="UglyNumber.cs" />
+    <Compile Include="ValidAnagram.cs" />
     <Compile Include="ValidPalindrome.cs" />
     <Compile Include="ValidParentheses.cs" />
     <Compile Include="WordBreakII.cs" />

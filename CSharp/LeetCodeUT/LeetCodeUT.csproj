@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IntersectionofTwoArraysUT.cs" />
+    <Compile Include="InvertBinaryTreeUT.cs" />
     <Compile Include="MissingNumberUT.cs" />
     <Compile Include="MoveZeroesUT.cs" />
     <Compile Include="PowerofFourUT.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="TaskAUT.cs" />
     <Compile Include="TaskBUT.cs" />
     <Compile Include="TaskCUT.cs" />
+    <Compile Include="TopKFrequentElementsUT.cs" />
     <Compile Include="UglyNumberUT.cs" />
     <Compile Include="AddDigitsUT.cs" />
     <Compile Include="AddBinaryUT.cs" />
@@ -106,6 +108,7 @@
     <Compile Include="LongestValidParenthesesUT.cs" />
     <Compile Include="UtilityUT.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharactersUT.cs" />
+    <Compile Include="ValidAnagramUT.cs" />
     <Compile Include="ValidPalindromeUT.cs" />
     <Compile Include="ValidParenthesesUT.cs" />
     <Compile Include="WordPatternUT.cs" />
