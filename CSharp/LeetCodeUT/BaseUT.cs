@@ -30,6 +30,7 @@ namespace LeetCodeUT
         }
 		protected int[] String2Int32Array(string str)
 		{
+		    if (string.IsNullOrEmpty(str)) return new int[] {};
 			var array = str.Split(',');
 			var result = new List<int>();
 			foreach (var s in array)

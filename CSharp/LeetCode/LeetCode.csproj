@@ -58,6 +58,7 @@
     <Compile Include="ImplementstrStr.cs" />
     <Compile Include="IntegertoRoman.cs" />
     <Compile Include="InterleavingString.cs" />
+    <Compile Include="IntersectionofTwoArrays.cs" />
     <Compile Include="LengthofLastWord.cs" />
     <Compile Include="LetterCombinationsofaPhoneNumber.cs" />
     <Compile Include="ListNode.cs" />
@@ -77,12 +78,15 @@
     <Compile Include="PascalsTriangleII.cs" />
     <Compile Include="PathSum.cs" />
     <Compile Include="PlusOne.cs" />
+    <Compile Include="PowerofFour.cs" />
     <Compile Include="RandomListNode.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedListII.cs" />
     <Compile Include="RemoveElement.cs" />
     <Compile Include="RemoveLinkedListElements.cs" />
     <Compile Include="RemoveNthNodeFromEndofList.cs" />
+    <Compile Include="ReverseString.cs" />
+    <Compile Include="ReverseVowelsofaString.cs" />
     <Compile Include="RomantoInteger.cs" />
     <Compile Include="RotateArray.cs" />
     <Compile Include="SameTree.cs" />
@@ -97,6 +101,10 @@
     <Compile Include="Sqrt.cs" />
     <Compile Include="SwapNodesinPairs.cs" />
     <Compile Include="SymmetricTree.cs" />
+    <Compile Include="TaskA.cs" />
+    <Compile Include="TaskB.cs" />
+    <Compile Include="TaskC_Bak.cs" />
+    <Compile Include="TaskC.cs" />
     <Compile Include="TitleToNumber.cs" />
     <Compile Include="TrappingRainWater.cs" />
     <Compile Include="TreeNode.cs" />
@@ -108,6 +116,7 @@
     <Compile Include="ValidParentheses.cs" />
     <Compile Include="WordBreakII.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
+    <Compile Include="WordPattern.cs" />
     <Compile Include="ZigZagConversion.cs" />
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArray.cs" />

@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IntersectionofTwoArraysUT.cs" />
     <Compile Include="MissingNumberUT.cs" />
     <Compile Include="MoveZeroesUT.cs" />
+    <Compile Include="PowerofFourUT.cs" />
+    <Compile Include="ReverseStringUT.cs" />
+    <Compile Include="ReverseVowelsofaStringUT.cs" />
+    <Compile Include="TaskAUT.cs" />
+    <Compile Include="TaskBUT.cs" />
+    <Compile Include="TaskCUT.cs" />
     <Compile Include="UglyNumberUT.cs" />
     <Compile Include="AddDigitsUT.cs" />
     <Compile Include="AddBinaryUT.cs" />
@@ -101,6 +108,7 @@
     <Compile Include="LongestSubstringWithoutRepeatingCharactersUT.cs" />
     <Compile Include="ValidPalindromeUT.cs" />
     <Compile Include="ValidParenthesesUT.cs" />
+    <Compile Include="WordPatternUT.cs" />
     <Compile Include="ZigZagConversionUT.cs" />
     <Compile Include="PalindromeNumberUT.cs" />
     <Compile Include="RemoveDuplicatesfromSortedArrayUT.cs" />
