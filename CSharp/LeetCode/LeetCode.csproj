@@ -47,12 +47,15 @@
     <Compile Include="BinaryTreeLevelOrderTraversalII.cs" />
     <Compile Include="BinaryTreeRightSideView.cs" />
     <Compile Include="ClimbingStairs.cs" />
+    <Compile Include="Combinations.cs" />
     <Compile Include="CompareVersionNumbers.cs" />
     <Compile Include="ContainerWithMostWater.cs" />
     <Compile Include="CopyListwithRandomPointer.cs" />
     <Compile Include="CountandSay.cs" />
+    <Compile Include="DeleteNodeinaLinkedList.cs" />
     <Compile Include="ExcelSheetColumnTitle.cs" />
     <Compile Include="FactorialTrailingZeroes.cs" />
+    <Compile Include="FirstBadVersion.cs" />
     <Compile Include="FractiontoRecurringDecimal.cs" />
     <Compile Include="GenerateParentheses.cs" />
     <Compile Include="ImplementstrStr.cs" />
@@ -69,6 +72,7 @@
     <Compile Include="LongestPalindromicSubstring.cs" />
     <Compile Include="LRUCache.cs" />
     <Compile Include="MajorityElement.cs" />
+    <Compile Include="MaximumProductofWordLengths.cs" />
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="MinimumDepthofBinaryTree.cs" />
     <Compile Include="MinStack.cs" />
@@ -86,6 +90,7 @@
     <Compile Include="RemoveElement.cs" />
     <Compile Include="RemoveLinkedListElements.cs" />
     <Compile Include="RemoveNthNodeFromEndofList.cs" />
+    <Compile Include="ReverseLinkedList.cs" />
     <Compile Include="ReverseString.cs" />
     <Compile Include="ReverseVowelsofaString.cs" />
     <Compile Include="RomantoInteger.cs" />

@@ -42,11 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CombinationsUT.cs" />
+    <Compile Include="DeleteNodeinaLinkedListUT.cs" />
     <Compile Include="IntersectionofTwoArraysUT.cs" />
     <Compile Include="InvertBinaryTreeUT.cs" />
+    <Compile Include="MaximumProductofWordLengthsUT.cs" />
     <Compile Include="MissingNumberUT.cs" />
     <Compile Include="MoveZeroesUT.cs" />
     <Compile Include="PowerofFourUT.cs" />
+    <Compile Include="ReverseLinkedListUT.cs" />
     <Compile Include="ReverseStringUT.cs" />
     <Compile Include="ReverseVowelsofaStringUT.cs" />
     <Compile Include="TaskAUT.cs" />
