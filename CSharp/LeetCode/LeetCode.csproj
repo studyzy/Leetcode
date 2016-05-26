@@ -45,8 +45,10 @@
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BalancedBinaryTree.cs" />
     <Compile Include="BinaryTreeLevelOrderTraversalII.cs" />
+    <Compile Include="BinaryTreePreorderTraversal.cs" />
     <Compile Include="BinaryTreeRightSideView.cs" />
     <Compile Include="ClimbingStairs.cs" />
+    <Compile Include="CoinChange.cs" />
     <Compile Include="Combinations.cs" />
     <Compile Include="CompareVersionNumbers.cs" />
     <Compile Include="ContainerWithMostWater.cs" />
@@ -63,6 +65,7 @@
     <Compile Include="InterleavingString.cs" />
     <Compile Include="IntersectionofTwoArrays.cs" />
     <Compile Include="InvertBinaryTree.cs" />
+    <Compile Include="KthLargestElementinanArray.cs" />
     <Compile Include="LengthofLastWord.cs" />
     <Compile Include="LetterCombinationsofaPhoneNumber.cs" />
     <Compile Include="ListNode.cs" />
@@ -82,6 +85,7 @@
     <Compile Include="NumberofIslands.cs" />
     <Compile Include="PascalsTriangleII.cs" />
     <Compile Include="PathSum.cs" />
+    <Compile Include="PerfectSquares.cs" />
     <Compile Include="PlusOne.cs" />
     <Compile Include="PowerofFour.cs" />
     <Compile Include="RandomListNode.cs" />
@@ -91,6 +95,7 @@
     <Compile Include="RemoveLinkedListElements.cs" />
     <Compile Include="RemoveNthNodeFromEndofList.cs" />
     <Compile Include="ReverseLinkedList.cs" />
+    <Compile Include="ReverseLinkedListII.cs" />
     <Compile Include="ReverseString.cs" />
     <Compile Include="ReverseVowelsofaString.cs" />
     <Compile Include="RomantoInteger.cs" />
@@ -103,6 +108,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SelfCrossing.cs" />
+    <Compile Include="SingleNumberIII.cs" />
     <Compile Include="SpiralMatrix.cs" />
     <Compile Include="Sqrt.cs" />
     <Compile Include="SwapNodesinPairs.cs" />

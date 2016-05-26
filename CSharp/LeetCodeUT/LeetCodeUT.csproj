@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinaryTreePreorderTraversalUT.cs" />
+    <Compile Include="CoinChangeUT.cs" />
     <Compile Include="CombinationsUT.cs" />
     <Compile Include="DeleteNodeinaLinkedListUT.cs" />
     <Compile Include="IntersectionofTwoArraysUT.cs" />
@@ -49,10 +51,13 @@
     <Compile Include="MaximumProductofWordLengthsUT.cs" />
     <Compile Include="MissingNumberUT.cs" />
     <Compile Include="MoveZeroesUT.cs" />
+    <Compile Include="PerfectSquaresUT.cs" />
     <Compile Include="PowerofFourUT.cs" />
+    <Compile Include="ReverseLinkedListIIUT.cs" />
     <Compile Include="ReverseLinkedListUT.cs" />
     <Compile Include="ReverseStringUT.cs" />
     <Compile Include="ReverseVowelsofaStringUT.cs" />
+    <Compile Include="SingleNumberIIIUT.cs" />
     <Compile Include="TaskAUT.cs" />
     <Compile Include="TaskBUT.cs" />
     <Compile Include="TaskCUT.cs" />
